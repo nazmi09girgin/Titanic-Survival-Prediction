@@ -1,4 +1,6 @@
 # Titanic-Survival-Prediction
+![Titanic Survival](titanic.png)
+
 Bu proje, Titanic yolcularının hayatta kalma durumlarını tahmin etmek amacıyla farklı makine öğrenimi modellerini (Logistic Regression, Decision Tree, Random Forest ve K-Nearest Neighbors (KNN)) kullanarak bir sınıflandırma analizi yapmaktadır.
 
 Adımlar:
